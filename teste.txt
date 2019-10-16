@@ -1,0 +1,10 @@
+1	Arquivo de teste para conflitos
+2
+3	Arquivo da turma DS-B (A melhor turma)
+4
+5
+6	Conteudo 1
+7	Conteudo 2
+8
+9
+10	Fim do arquivo
